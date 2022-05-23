@@ -1,0 +1,22 @@
+$main-color: #000;
+
+.section-margin {
+    margin-bottom: 3em;
+}
+
+html {
+    background-color: $main-color;
+}
+
+.block-title {
+    margin: 0;
+    margin-bottom: 1em;
+    font-weight: 600;
+    color: $main-color;
+    text-align: center;
+}
+
+
+.hided {
+    display: none
+}
